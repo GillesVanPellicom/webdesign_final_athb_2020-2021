@@ -1,0 +1,12 @@
+2021-04-27 13:58:08 13700 [Note] Event Scheduler: Loaded 0 events
+2021-04-27 13:58:08 13700 [Note] C:\Users\gille\IdeaProjects\webdesign_final_athb_2020-2021\src/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.6.34'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2021-05-31 13:20:08 5652 [Note] Event Scheduler: Loaded 0 events
+2021-05-31 13:20:08 5652 [Note] C:\Users\gille\IdeaProjects\webdesign_final_athb_2020-2021\src/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.6.34'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2021-05-31 14:09:17 5730  InnoDB: Operating system error number 80 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/operating-system-error-codes.html
+2021-05-31 14:09:17 5652 [ERROR] InnoDB: Cannot create file '.\webshop\productdesc.ibd'
+
+2021-05-31 14:09:17 5652 [ERROR] InnoDB: The file '.\webshop\productdesc.ibd' already exists though the corresponding table did not exist in the InnoDB data dictionary. Have you moved InnoDB .ibd files around without using the SQL commands DISCARD TABLESPACE and IMPORT TABLESPACE, or did mysqld crash in the middle of CREATE TABLE? You can resolve the problem by removing the file '.\webshop\productdesc.ibd' under the 'datadir' of MySQL.

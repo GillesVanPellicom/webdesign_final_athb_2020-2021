@@ -1,0 +1,4 @@
+AuthName "Dialog prompt"
+AuthType Basic
+AuthUserFile C:/Users/gille/IdeaProjects/webdesign_final_athb_2020-2021/src/root/staff/.htpasswd
+Require valid-user
