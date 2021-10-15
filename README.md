@@ -6,6 +6,5 @@ This is by no means a "good" webshop when looking at UI/UX, us not being allowed
 Don't judge me on this code, I could not get myself to care about this assignment.
 
 To run this project, set up a traditional php 7 or higher LAMP stack. 
-Import the files from mysql into the db and place the contents of root in your root folder. 
-Current credentials: user=root pass=usbw
+Current db credentials: user=root pass=usbw
 
